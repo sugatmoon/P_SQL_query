@@ -1,0 +1,1 @@
+insert into customers values (default, 'Sugat', 'Moon', null, null, 'plot no. 94','Nagpur', 'MH', 2456 );

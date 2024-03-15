@@ -1,0 +1,1 @@
+select * from shippers , products order by shipper_id
