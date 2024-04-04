@@ -1,0 +1,1 @@
+select date, SUM(amount) as totoal_payments from payments group by date       ;
